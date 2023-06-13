@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATRH | tr ":"\n" | wc -l
+echo $PATRH | tr ":" "\n" | wc -l
